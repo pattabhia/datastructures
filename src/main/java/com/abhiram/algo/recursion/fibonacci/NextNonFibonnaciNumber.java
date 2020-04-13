@@ -5,4 +5,7 @@ package com.abhiram.algo.recursion.fibonacci;
 //6 is the next non-fibonacci number after 4
 public class NextNonFibonnaciNumber {
 
+    public static void main(String[] args) {
+        System.out.println("TEST");
+    }
 }
