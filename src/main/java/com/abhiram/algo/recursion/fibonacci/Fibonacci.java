@@ -3,6 +3,7 @@ package com.abhiram.algo.recursion.fibonacci;
 public abstract class Fibonacci {
 
     public int fibonacci(int num) {
+
         if (num == 0) {
             return 0;
         }
