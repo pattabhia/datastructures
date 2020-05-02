@@ -16,6 +16,8 @@ public class WordCount {
 
 	public static final String DELIM = ",.?:;!' - ";
 
+
+
 	public static void main(String args[]) throws Exception {
 		Instant start = Instant.now();
 		Map<String, Integer> occurrence = new LinkedHashMap<String, Integer>();
